@@ -1,0 +1,14 @@
+#btn{
+    border: none;
+    color: white;
+    background-color: green;
+    padding:0px;
+    border-radius: 20px;
+    margin: 20px;
+    cursor: pointer;
+    height: 100px;
+    width: auto;
+    font-size: 80px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
